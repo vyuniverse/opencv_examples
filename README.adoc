@@ -1,0 +1,10 @@
+= `opencv_examples`
+
+A collection of OpenCV examples, based on the OpenCV documentation and
+tutorials therein.
+
+Use `cmake` to compile the examples:
+
+    cmake -B build
+    cmake --build build
+

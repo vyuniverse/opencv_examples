@@ -1,0 +1,3 @@
+add_subdirectory(get_build_information)
+add_subdirectory(load_image_example)
+
